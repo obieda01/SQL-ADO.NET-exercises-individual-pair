@@ -1,0 +1,6 @@
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FizzWriter\bin\Debug\FizzWriter.exe.config
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FizzWriter\obj\Debug\FizzWriter.csprojResolveAssemblyReference.cache
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FizzWriter\bin\Debug\FizzWriter.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FizzWriter\bin\Debug\FizzWriter.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FizzWriter\obj\Debug\FizzWriter.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FizzWriter\obj\Debug\FizzWriter.pdb

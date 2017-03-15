@@ -1,0 +1,6 @@
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\WordSearch\obj\Debug\WordSearch.csprojResolveAssemblyReference.cache
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\WordSearch\obj\Debug\WordSearch.pdb

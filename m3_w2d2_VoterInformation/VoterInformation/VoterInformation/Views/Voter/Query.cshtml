@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Query";
+}
+
+<h2>Query</h2>
+
+@using (Html.BeginForm("Lookup", "Voter", FormMethod.Get))
+{
+    @Html.Label("Street Name:")
+    @Html.TextBox("Street")
+    <br/>
+    <br />
+    
+    <input type="submit" value="Search"/>
+}

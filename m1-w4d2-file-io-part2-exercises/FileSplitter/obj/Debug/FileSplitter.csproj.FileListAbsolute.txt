@@ -1,0 +1,6 @@
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FileSplitter\bin\Debug\FileSplitter.exe.config
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FileSplitter\bin\Debug\FileSplitter.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FileSplitter\bin\Debug\FileSplitter.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FileSplitter\obj\Debug\FileSplitter.csprojResolveAssemblyReference.cache
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FileSplitter\obj\Debug\FileSplitter.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d2-file-io-part2-exercises\FileSplitter\obj\Debug\FileSplitter.pdb

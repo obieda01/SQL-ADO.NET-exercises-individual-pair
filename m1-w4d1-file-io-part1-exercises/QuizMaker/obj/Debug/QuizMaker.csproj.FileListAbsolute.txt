@@ -1,0 +1,6 @@
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\QuizMaker\bin\Debug\QuizMaker.exe.config
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\QuizMaker\bin\Debug\QuizMaker.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\QuizMaker\bin\Debug\QuizMaker.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\QuizMaker\obj\Debug\QuizMaker.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\QuizMaker\obj\Debug\QuizMaker.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\ahmedobieda-c-exercises\m1-w4d1-file-io-part1-exercises\QuizMaker\obj\Debug\QuizMaker.csprojResolveAssemblyReference.cache
